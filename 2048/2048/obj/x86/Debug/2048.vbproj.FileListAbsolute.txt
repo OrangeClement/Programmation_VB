@@ -1,0 +1,53 @@
+\\rohan\K\andonoff\Documents\VB\Projet\2048\2048\2048\bin\Debug\2048.exe
+\\rohan\K\andonoff\Documents\VB\Projet\2048\2048\2048\bin\Debug\2048.pdb
+\\rohan\K\andonoff\Documents\VB\Projet\2048\2048\2048\bin\Debug\2048.xml
+\\rohan\K\andonoff\Documents\VB\Projet\2048\2048\2048\obj\x86\Debug\WindowsApplication1.Form2048.resources
+\\rohan\K\andonoff\Documents\VB\Projet\2048\2048\2048\obj\x86\Debug\WindowsApplication1.Resources.resources
+\\rohan\K\andonoff\Documents\VB\Projet\2048\2048\2048\obj\x86\Debug\2048.vbproj.GenerateResource.Cache
+\\rohan\K\andonoff\Documents\VB\Projet\2048\2048\2048\obj\x86\Debug\2048.exe
+\\rohan\K\andonoff\Documents\VB\Projet\2048\2048\2048\obj\x86\Debug\2048.xml
+\\rohan\K\andonoff\Documents\VB\Projet\2048\2048\2048\obj\x86\Debug\2048.pdb
+\\rohan\B\21611924\Documents\Visual Studio 2010\Projects\2048\2048\obj\x86\Debug\2048.xml
+\\rohan\B\21611924\Documents\Visual Studio 2010\Projects\2048\2048\obj\x86\Debug\2048.pdb
+\\rohan\B\21611924\Documents\Visual Studio 2010\Projects\2048\2048\bin\Debug\2048.exe
+\\rohan\B\21611924\Documents\Visual Studio 2010\Projects\2048\2048\bin\Debug\2048.pdb
+\\rohan\B\21611924\Documents\Visual Studio 2010\Projects\2048\2048\bin\Debug\2048.xml
+\\rohan\B\21611924\Documents\Visual Studio 2010\Projects\2048\2048\obj\x86\Debug\WindowsApplication1.Form2048.resources
+\\rohan\B\21611924\Documents\Visual Studio 2010\Projects\2048\2048\obj\x86\Debug\WindowsApplication1.Resources.resources
+\\rohan\B\21611924\Documents\Visual Studio 2010\Projects\2048\2048\obj\x86\Debug\2048.vbproj.GenerateResource.Cache
+\\rohan\B\21611924\Documents\Visual Studio 2010\Projects\2048\2048\obj\x86\Debug\2048.exe
+\\rohan\B\21611924\Documents\Visual Studio 2010\Projects\2048\2048\obj\x86\Debug\WindowsApplication1.Accueil.resources
+\\rohan\B\21611924\Documents\Visual Studio 2010\Projects\2048\2048\obj\x86\Debug\WindowsApplication1.Form2048_avec_clavier.resources
+K:\Documents\Visual Studio 2010\Projects\2048\2048\obj\x86\Debug\2048.exe
+K:\Documents\Visual Studio 2010\Projects\2048\2048\obj\x86\Debug\2048.xml
+K:\Documents\Visual Studio 2010\Projects\2048\2048\obj\x86\Debug\2048.pdb
+K:\Documents\Visual Studio 2010\Projects\2048\2048\bin\Debug\2048.exe
+K:\Documents\Visual Studio 2010\Projects\2048\2048\bin\Debug\2048.pdb
+K:\Documents\Visual Studio 2010\Projects\2048\2048\bin\Debug\2048.xml
+K:\Documents\Visual Studio 2010\Projects\2048\2048\obj\x86\Debug\WindowsApplication1.Accueil.resources
+K:\Documents\Visual Studio 2010\Projects\2048\2048\obj\x86\Debug\WindowsApplication1.Form2048.resources
+K:\Documents\Visual Studio 2010\Projects\2048\2048\obj\x86\Debug\WindowsApplication1.Form2048_avec_clavier.resources
+K:\Documents\Visual Studio 2010\Projects\2048\2048\obj\x86\Debug\WindowsApplication1.Resources.resources
+K:\Documents\Visual Studio 2010\Projects\2048\2048\obj\x86\Debug\2048.vbproj.GenerateResource.Cache
+\\rohan\B\21611924\Desktop\Jeu2048_TD1_JYC_SL\2048\2048\obj\x86\Debug\2048.exe
+\\rohan\B\21611924\Desktop\Jeu2048_TD1_JYC_SL\2048\2048\obj\x86\Debug\2048.xml
+\\rohan\B\21611924\Desktop\Jeu2048_TD1_JYC_SL\2048\2048\obj\x86\Debug\2048.pdb
+\\rohan\B\21611924\Desktop\Jeu2048_TD1_JYC_SL\2048\2048\bin\Debug\2048.exe
+\\rohan\B\21611924\Desktop\Jeu2048_TD1_JYC_SL\2048\2048\bin\Debug\2048.pdb
+\\rohan\B\21611924\Desktop\Jeu2048_TD1_JYC_SL\2048\2048\bin\Debug\2048.xml
+\\rohan\B\21611924\Desktop\Jeu2048_TD1_JYC_SL\2048\2048\obj\x86\Debug\WindowsApplication1.Accueil.resources
+\\rohan\B\21611924\Desktop\Jeu2048_TD1_JYC_SL\2048\2048\obj\x86\Debug\WindowsApplication1.Form2048.resources
+\\rohan\B\21611924\Desktop\Jeu2048_TD1_JYC_SL\2048\2048\obj\x86\Debug\WindowsApplication1.Form2048_avec_clavier.resources
+\\rohan\B\21611924\Desktop\Jeu2048_TD1_JYC_SL\2048\2048\obj\x86\Debug\WindowsApplication1.Resources.resources
+\\rohan\B\21611924\Desktop\Jeu2048_TD1_JYC_SL\2048\2048\obj\x86\Debug\2048.vbproj.GenerateResource.Cache
+W:\programmation\Jeu2048_TD1_JYC_SL\2048\2048\obj\x86\Debug\2048.exe
+W:\programmation\Jeu2048_TD1_JYC_SL\2048\2048\obj\x86\Debug\2048.xml
+W:\programmation\Jeu2048_TD1_JYC_SL\2048\2048\obj\x86\Debug\2048.pdb
+W:\programmation\Jeu2048_TD1_JYC_SL\2048\2048\bin\Debug\2048.exe
+W:\programmation\Jeu2048_TD1_JYC_SL\2048\2048\bin\Debug\2048.pdb
+W:\programmation\Jeu2048_TD1_JYC_SL\2048\2048\bin\Debug\2048.xml
+W:\programmation\Jeu2048_TD1_JYC_SL\2048\2048\obj\x86\Debug\WindowsApplication1.Accueil.resources
+W:\programmation\Jeu2048_TD1_JYC_SL\2048\2048\obj\x86\Debug\WindowsApplication1.Form2048.resources
+W:\programmation\Jeu2048_TD1_JYC_SL\2048\2048\obj\x86\Debug\WindowsApplication1.Form2048_avec_clavier.resources
+W:\programmation\Jeu2048_TD1_JYC_SL\2048\2048\obj\x86\Debug\WindowsApplication1.Resources.resources
+W:\programmation\Jeu2048_TD1_JYC_SL\2048\2048\obj\x86\Debug\2048.vbproj.GenerateResource.Cache
